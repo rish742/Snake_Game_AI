@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Add your files or folder which you want to ignore while pusing to git
+
+snake_venv/
